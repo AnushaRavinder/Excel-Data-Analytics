@@ -5,9 +5,10 @@ Data Analytics in Excel
 
 - **Project objective:** 
 
-    **1.** Create a _[https://github.com/AnushaRavinder/Excel-Data-Analytics/blob/main/Customer%20Performance%20Report.pdf]
-    **2.** Conduct a comprehensive comparison between _[https://github.com/AnushaRavinder/Excel-Data-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf]_
-
+    **1.** Create a _[Customer_Performance_Report](https://github.com/AnushaRavinder/Excel-Data-Analytics/blob/main/Customer%20Performance%20Report.pdf)
+  
+    **2.** Conduct a comprehensive comparison between _ [Market Performance vs Target](https://github.com/AnushaRavinder/Excel-Data-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+  
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
@@ -21,7 +22,7 @@ Data Analytics in Excel
 
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/AnushaRavinder/Excel-Data-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
-   **2.** Create Profit and Loss (P&L) reports by _[https://github.com/AnushaRavinder/Excel-Data-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf]
+   **2.** Create Profit and Loss (P&L) reports by _ [Markets](https://github.com/AnushaRavinder/Excel-Data-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
