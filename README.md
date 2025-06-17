@@ -1,4 +1,4 @@
-# Excel-Data-Analytics
+# Sales & Financial Analytical Reports
 Data Analytics in Excel
 ## Sales Report :
 
